@@ -1,0 +1,8 @@
+name: dummy
+channels:
+  - anaconda
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8.10=hdb3f193_7
+prefix: /home/jnsbck/Applications/anaconda3/envs/dummy
