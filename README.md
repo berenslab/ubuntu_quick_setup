@@ -13,7 +13,7 @@ This repository was conceived as a way to quickly get up and running again after
 
 ## How to use it?
 ### On your old system:
-1. activate conda and run `update_envs.py`
+1. activate conda and run `update_envs.py` (delete dummy `environment.yml` in `conda_envs`)
 2. check if applications you want to install as a snap are listed in snaps.txt
 3. check if applications you want to install via apt are listed in apt-get.txt and that you have added their channels
 4. check if sources for all applications you want to download and install via a .deb are listed in deb_URLs.txt
@@ -22,4 +22,4 @@ This repository was conceived as a way to quickly get up and running again after
 6. Copy folder to new system
 
 ### On your new system:
-7. Run `bash getsetupfast.sh`
+7. Change into directory with `cd getsetupfast` and start the setup with `bash getsetupfast.sh`.
