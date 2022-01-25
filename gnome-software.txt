@@ -1,0 +1,7 @@
+#atom
+#spotify
+#telegram
+#texmaker
+#xournal++
+#signal
+#sublime text

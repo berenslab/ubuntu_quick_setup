@@ -1,0 +1,16 @@
+###urls to load .debs
+#
+#1. Latest zoom client
+https://www.zoom.us/client/latest/zoom_amd64.deb
+#
+#2. latest stable build VS Code
+https://code.visualstudio.com/sha/download?build=stable\&os=linux-deb-x64
+#
+#3. latest discord build
+https://discord.com/api/download?platform=linux&format=deb
+#
+#4. slack client
+https://downloads.slack-edge.com/releases/linux/4.23.0/prod/x64/slack-desktop-4.23.0-amd64.deb
+#
+#5. latest stable chrome build
+#https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb

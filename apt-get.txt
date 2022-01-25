@@ -1,0 +1,16 @@
+gnuplot
+htop
+gparted
+g++
+gdb
+gedit
+gnome-tweaks
+make
+wget
+chromium-browser
+vlc
+curl
+#
+spotify-client
+#
+zotero
