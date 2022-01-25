@@ -3,7 +3,7 @@ This repository was conceived as a way to quickly get up and running again after
 ## What it will do:
 - Extract config files of all your conda environments.
 - Install a bunch of prespecified programmes from different sources without any intervention necessary.
-- Install the Anaconda 3, initialise it and set up your environments.
+- Install Anaconda 3, initialise it and set up your environments.
 
 ## What it won't do:
 - Migrate any data
