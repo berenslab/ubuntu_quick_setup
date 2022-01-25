@@ -103,7 +103,6 @@ then
   if [ $delete = 1 ]; then
     cd ..
     rm -rf ./getsetupfast
-    #umount -f -l /mnt/NAS
     echo DELETED SETUP FOLDER
   fi
   echo FINISHED SETTING UP
